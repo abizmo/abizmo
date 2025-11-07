@@ -63,6 +63,46 @@ inspiration: "Beauty and creativity of the Canary Islands"
 
 ---
 
+## 🚀 Recent Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [Pricing Component with Toggle](https://github.com/abizmo/pricing-component-with-toggle)
+
+Interactive pricing display component with monthly/yearly toggle. Built with Svelte and Astro featuring responsive design and keyboard accessibility.
+
+**Tech:** Svelte • Astro • TypeScript • CSS Grid
+
+</td>
+<td width="33%" valign="top">
+
+### [Browser Extension Manager UI](https://browser-extension-manager-ui-drab.vercel.app)
+
+Clean interface for managing browser extensions with filtering system (all/active/inactive) and dark/light theme toggle.
+
+**Tech:** React • TypeScript • CSS
+
+[![Screenshot](https://raw.githubusercontent.com/abizmo/browser-extension-manager-ui/main/screenshot.jpg)](https://browser-extension-manager-ui-drab.vercel.app)
+
+</td>
+<td width="33%" valign="top">
+
+### [Conference Ticket Generator](https://conference-ticket-generator-zeta-six.vercel.app)
+
+Generate personalized conference tickets for Coding Conf 2025 with avatar upload, form validation, and responsive design.
+
+**Tech:** React • TypeScript • Form Handling
+
+[![Screenshot](https://raw.githubusercontent.com/abizmo/conference-ticket-generator/main/screenshot.jpg)](https://conference-ticket-generator-zeta-six.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 **Let's connect and make the web shine together!** 🌐
