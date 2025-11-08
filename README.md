@@ -1,35 +1,110 @@
-### 👋 Frontend Developer | JavaScript Enthusiast | 4 Years of React Experience | Las Palmas de Gran Canaria
+<div align="center">
 
-- 💻 Crafting captivating web experiences from ideas.
-- 🚀 Specializing in JavaScript and crafting elegant interfaces, with 4 years of experience in React.
-- 🏝️ Based in Las Palmas de Gran Canaria, drawing inspiration from its beauty and creativity.
-- 📈 Always seeking new challenges and exciting opportunities.
+# 👋 Abian Izquierdo
 
-🌐 Connect with me:
+**Frontend Developer | JavaScript Enthusiast | React Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/abian-izquierdo)
-[![ABIZMO.DEV](https://img.shields.io/badge/ABIZMO.DEV-FF7300.svg?style=for-the-badge)](https://www.abizmo.dev)
+📍 Las Palmas de Gran Canaria 🏝️ | 💼 4+ Years Experience
 
-Let's connect and make the web shine together! 🌐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-78a9ff?style=for-the-badge&logo=linkedin&logoColor=161616)](https://es.linkedin.com/in/abian-izquierdo)
+[![Portfolio](https://img.shields.io/badge/ABIZMO.DEV-33b1ff?style=for-the-badge&logoColor=161616)](https://www.abizmo.dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=abizmo&style=for-the-badge&color=78a9ff)](https://github.com/abizmo)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-<!--
-**abizmo/abizmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+```yaml
+focus: "Crafting captivating web experiences"
+specialization: "JavaScript & elegant interfaces"
+location: "Las Palmas de Gran Canaria"
+experience: "4+ years with React"
+mindset: "Always seeking new challenges"
+inspiration: "Beauty and creativity of the Canary Islands"
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abizmo&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
 
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abizmo&show_icons=true&theme=transparent&hide_border=true&title_color=78a9ff&text_color=f2f4f8&icon_color=33b1ff&bg_color=161616" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abizmo&layout=compact&theme=transparent&hide_border=true&title_color=78a9ff&text_color=f2f4f8&bg_color=161616" height="170" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=f2f4f8)
+![TypeScript](https://img.shields.io/badge/TypeScript-161616?style=for-the-badge&logo=typescript&logoColor=78a9ff)
+![React](https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=33b1ff)
+![Next.js](https://img.shields.io/badge/Next.js-161616?style=for-the-badge&logo=next.js&logoColor=f2f4f8)
+![Vue.js](https://img.shields.io/badge/Vue.js-161616?style=for-the-badge&logo=vue.js&logoColor=25be6a)
+![React Native](https://img.shields.io/badge/React_Native-161616?style=for-the-badge&logo=react&logoColor=33b1ff)
+
+![Node.js](https://img.shields.io/badge/Node.js-161616?style=for-the-badge&logo=node.js&logoColor=25be6a)
+![Express](https://img.shields.io/badge/Express-161616?style=for-the-badge&logo=express&logoColor=f2f4f8)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-161616?style=for-the-badge&logo=tailwind-css&logoColor=33b1ff)
+![SASS](https://img.shields.io/badge/SASS-161616?style=for-the-badge&logo=sass&logoColor=ee5396)
+![Redux](https://img.shields.io/badge/Redux-161616?style=for-the-badge&logo=redux&logoColor=be95ff)
+![Styled Components](https://img.shields.io/badge/Styled_Components-161616?style=for-the-badge&logo=styled-components&logoColor=ee5396)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-161616?style=for-the-badge&logo=mongodb&logoColor=25be6a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161616?style=for-the-badge&logo=postgresql&logoColor=78a9ff)
+![MySQL](https://img.shields.io/badge/MySQL-161616?style=for-the-badge&logo=mysql&logoColor=33b1ff)
+![Figma](https://img.shields.io/badge/Figma-161616?style=for-the-badge&logo=figma&logoColor=ee5396)
+
+</div>
+
+---
+
+## 🚀 Recent Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [Pricing Component with Toggle](https://github.com/abizmo/pricing-component-with-toggle)
+
+Interactive pricing display component with monthly/yearly toggle. Built with Svelte and Astro featuring responsive design and keyboard accessibility.
+
+**Tech:** Svelte • Astro • TypeScript • CSS Grid
+
+</td>
+<td width="33%" valign="top">
+
+### [Browser Extension Manager UI](https://browser-extension-manager-ui-drab.vercel.app)
+
+Clean interface for managing browser extensions with filtering system (all/active/inactive) and dark/light theme toggle.
+
+**Tech:** React • TypeScript • CSS
+
+[![Screenshot](https://raw.githubusercontent.com/abizmo/browser-extension-manager-ui/main/screenshot.jpg)](https://browser-extension-manager-ui-drab.vercel.app)
+
+</td>
+<td width="33%" valign="top">
+
+### [Conference Ticket Generator](https://conference-ticket-generator-zeta-six.vercel.app)
+
+Generate personalized conference tickets for Coding Conf 2025 with avatar upload, form validation, and responsive design.
+
+**Tech:** React • TypeScript • Form Handling
+
+[![Screenshot](https://raw.githubusercontent.com/abizmo/conference-ticket-generator/main/screenshot.jpg)](https://conference-ticket-generator-zeta-six.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+**Let's connect and make the web shine together!** 🌐
+
+</div>
